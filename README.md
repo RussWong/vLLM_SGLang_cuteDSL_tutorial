@@ -24,7 +24,9 @@
 
 ## cuteDSL
 
-TODO
+| 📓 Notebook 链接 | 🧠 Notebook 主要内容 | 🧩 难度等级 | ⭐ 难度 |
+|---|---|---|---|
+| [cutedsl_layout_tensor_minimal_demo.ipynb](./cutedsl/cutedsl_layout_tensor_minimal_demo.ipynb) | cutedsl tensor入门，演示 `cute.jit` 与 `cutlass.cute.runtime.from_dlpack` 的最小并发调用流程。 | 入门 | ⭐⭐ |
 
 ## 历史学习文章导航
 
